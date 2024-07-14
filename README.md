@@ -31,6 +31,7 @@ La classe de l’échiquier (Board) est une des plus grosses classes du programm
 Le processus de déplacement des pièces est assez complexe car l’nécessite de nombreux tests effectués à divers moments. Pour déplacer une pièce, on regarde d’abord si la pièce à déplacer est bien sur sa position de départ et si elle est de la couleur de celui à qui c’est le tour, on s’assure que le mouvement reste sur l’échiquier, enfin, on regarde si le mouvement ne met pas le roi en échec et si c’est un déplacement conforme (en diagonal pour le fou, d’une case ou en roque pour le roi, …). On peut alors déplacer la pièce normalement, en roque ou en effectuant une promotion du pion si les cas se présentent et on met à jour la couleur du joueur suivant.
 
 ### D.	L’intelligence artificielle
+
 ####Arbre de décision
 
 En Théorie des Jeux, on considère qu’on peut associer à chaque jeu un arbre dont chaque nœud représente les décisions d’un joueur. Ainsi à chaque branche est associé un état de jeu et on peut représenter sur cette arbre l’ensemble des parties qui peuvent être jouées. Dans le cas d’un jeu d’échec, à la racine, le premier joueur a trente-cinq coups possibles, il y aura donc trente-cinq branches qui représentent chacun de ces coups. Et à partir de tous ces coups possibles on pourra déterminer les suivants. Et ainsi de suite…
