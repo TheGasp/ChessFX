@@ -8,10 +8,8 @@ ChessFX est un projet réalisé dans le cadre scolaire visant à créer en JAVA 
 
 Insert gif or link to demo
 
-![image](https://github.com/user-attachments/assets/763406a3-5d76-4a2b-8945-0d92c2f79439)
 ![image (1)](https://github.com/user-attachments/assets/f6095ed0-ce3c-44e7-bcb9-d3eb5a010fe8)
-
-
+![image](https://github.com/user-attachments/assets/763406a3-5d76-4a2b-8945-0d92c2f79439)
 
 
 ## Lessons Learned
