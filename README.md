@@ -32,6 +32,7 @@ Le processus de déplacement des pièces est assez complexe car l’nécessite d
 
 ### D.	L’intelligence artificielle
 ####Arbre de décision
+
 En Théorie des Jeux, on considère qu’on peut associer à chaque jeu un arbre dont chaque nœud représente les décisions d’un joueur. Ainsi à chaque branche est associé un état de jeu et on peut représenter sur cette arbre l’ensemble des parties qui peuvent être jouées. Dans le cas d’un jeu d’échec, à la racine, le premier joueur a trente-cinq coups possibles, il y aura donc trente-cinq branches qui représentent chacun de ces coups. Et à partir de tous ces coups possibles on pourra déterminer les suivants. Et ainsi de suite…
 Afin de prédire le coup le plus avantageux possible, nous allons construire cet arbre de décision et lui appliquer ensuite l’algorithme MiniMax qui déterminera le meilleur coup à jouer. Nous avons choisi pour cet arbre une structure assez classique. Il est construit par récursivité. Chaque nœud possède deux valeurs : le score attribué à l’état du jeu que le nœud représente et le coup joué pour atteindre cet état ; ainsi qu’une liste de ses nœuds fils qui sont eux aussi des arbres. Nous avions au départ pensé à stocker l’ensemble du plateau de jeu sous forme de matrice dans chaque nœud mais cette proposition n’avait pas d’intérêt et aurait été trop coûteux en complexité spatiale et temporelle.
 
