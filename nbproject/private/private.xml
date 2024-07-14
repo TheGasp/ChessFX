@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/gaspa/Documents/NetBeansProjects/ChessFX/src/pieces/Bishop.java</file>
+            <file>file:/C:/Users/gaspa/Documents/NetBeansProjects/ChessFX/src/tree/Tree.java</file>
+            <file>file:/C:/Users/gaspa/Documents/NetBeansProjects/ChessFX/src/ui/Jeu.java</file>
+            <file>file:/C:/Users/gaspa/Documents/NetBeansProjects/ChessFX/src/enums/ColourPiece.java</file>
+            <file>file:/C:/Users/gaspa/Documents/NetBeansProjects/ChessFX/src/enums/GameStatus.java</file>
+            <file>file:/C:/Users/gaspa/Documents/NetBeansProjects/ChessFX/src/pieces/Piece.java</file>
+            <file>file:/C:/Users/gaspa/Documents/NetBeansProjects/ChessFX/src/pieces/Knight.java</file>
+            <file>file:/C:/Users/gaspa/Documents/NetBeansProjects/ChessFX/src/plate/Plate.java</file>
+            <file>file:/C:/Users/gaspa/Documents/NetBeansProjects/ChessFX/src/pieces/Pawn.java</file>
+            <file>file:/C:/Users/gaspa/Documents/NetBeansProjects/ChessFX/src/minmax/Minmax.java</file>
+            <file>file:/C:/Users/gaspa/Documents/NetBeansProjects/ChessFX/src/pieces/Chess.java</file>
+            <file>file:/C:/Users/gaspa/Documents/NetBeansProjects/ChessFX/src/ui/Menu.java</file>
+            <file>file:/C:/Users/gaspa/Documents/NetBeansProjects/ChessFX/src/plate/StateBackuper.java</file>
+            <file>file:/C:/Users/gaspa/Documents/NetBeansProjects/ChessFX/src/enums/PieceType.java</file>
+            <file>file:/C:/Users/gaspa/Documents/NetBeansProjects/ChessFX/src/enums/MoveReturnCode.java</file>
+            <file>file:/C:/Users/gaspa/Documents/NetBeansProjects/ChessFX/src/pieces/Rook.java</file>
+            <file>file:/C:/Users/gaspa/Documents/NetBeansProjects/ChessFX/src/enums/MoveType.java</file>
+            <file>file:/C:/Users/gaspa/Documents/NetBeansProjects/ChessFX/src/plate/AccessiblePositions.java</file>
+            <file>file:/C:/Users/gaspa/Documents/NetBeansProjects/ChessFX/src/pieces/Queen.java</file>
+            <file>file:/C:/Users/gaspa/Documents/NetBeansProjects/ChessFX/src/pieces/King.java</file>
+        </group>
+    </open-files>
+</project-private>
