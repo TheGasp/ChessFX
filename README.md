@@ -93,11 +93,6 @@ Vous pouvez voir ci-dessous les interfaces du programme. Dans un premier temps, 
 ![image (1)](https://github.com/user-attachments/assets/f6095ed0-ce3c-44e7-bcb9-d3eb5a010fe8)
 ![image](https://github.com/user-attachments/assets/763406a3-5d76-4a2b-8945-0d92c2f79439)
 
-- **Écran de menu**
-- **Affichage du plateau**
-- **Fonctionnement de l’IA**
-- **Messages d’alerte en cas d’échec, mat ou pat**
-
 ---
 
 
